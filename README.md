@@ -7,7 +7,7 @@ The client version includes the client versions of game, updater, mapcreator and
 
 The coding style is not pretty and is pretty much undocumented and uncommented. The client code ought to be rewritten. 
 
-This repository is about the client-side of the game. The server-side has its own repository.
+This repository is about the client-side of the game. The server-side has its own repository [own repository](https://github.com/sakkee/Spurdola-servers).
 
 ## Installation
 ### Version and modules
