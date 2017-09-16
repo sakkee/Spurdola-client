@@ -1,4 +1,4 @@
-# Spurdola
+# Spurdola (client)
 
 ## About
 Spurdola is a (unfinished) Pyglet-based multiplayer RPG game that utilizes twisted. The Python version used is 2.7. 
