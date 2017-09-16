@@ -28,4 +28,4 @@ gamelogic.py:
 GAME_IP should be updated to correspond the IP address or domain address of the loginserver
 
 ### Running
-'python goldenes.py'
+' python goldenes.py '
