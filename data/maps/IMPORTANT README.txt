@@ -1,0 +1,1 @@
+If you edit any map that's (by the name) in the game, USE A DIFFERENT NAME SO IT WON'T GET OVERWRITTEN!
